@@ -68,5 +68,6 @@ appsettings.json
 ## 👨‍💻 Autor
 
 David Caldas
+Kaion Murilo
 
 📧 Contato: davidcaldas320
