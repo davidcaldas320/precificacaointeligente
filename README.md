@@ -2,6 +2,11 @@
 
 Sistema web desenvolvido em ASP.NET Core MVC para calcular preços ideais de produtos utilizando métodos matemáticos como a Regra de Cramer.
 
+![.NET](https://img.shields.io/badge/.NET-ASP.NET-blue)
+![C#](https://img.shields.io/badge/C%23-Programming-purple)
+![MVC](https://img.shields.io/badge/Architecture-MVC-orange)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-green)
+
 ---
 
 ## 🚀 Tecnologias utilizadas
