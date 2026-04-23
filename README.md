@@ -8,6 +8,12 @@ Sistema web desenvolvido em ASP.NET Core MVC para calcular preços ideais de pro
 
 ---
 
+📑 Documentação do Projeto
+Para entender os conceitos matemáticos aplicados e a estrutura técnica, você pode baixar o documento oficial:
+
+📥 Clique aqui para baixar a documentação completa [Documentação.pdf](https://github.com/user-attachments/files/27015212/A3.relatorio.pdf)
+
+
 ## 🚀 Tecnologias utilizadas
 
 - ASP.NET Core MVC
